@@ -1,0 +1,1 @@
+# graylog-mongo-docker
